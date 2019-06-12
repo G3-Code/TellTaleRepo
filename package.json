@@ -1,0 +1,24 @@
+{
+  "name": "TellTaleRepo",
+  "version": "1.0.0",
+  "description": "This is the repository for the web application - TellTale. This application helps users to get a feedback about  their service or product.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/G3-Code/TellTaleRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/G3-Code/TellTaleRepo/issues"
+  },
+  "homepage": "https://github.com/G3-Code/TellTaleRepo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^1.19.1"
+  }
+}
