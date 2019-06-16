@@ -88,3 +88,6 @@ typings/
 
 # VSCode settings
 .vscode/
+
+#js settings
+keys.js
