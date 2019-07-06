@@ -91,3 +91,8 @@ typings/
 
 #js settings
 keys.js
+
+#Old js files to ignore
+index-old.js
+passport-old.js
+authRoutes-old.js
