@@ -90,4 +90,9 @@ typings/
 .vscode/
 
 #js settings
-#keys.js
+keys.js
+
+#Old js files to ignore
+index-old.js
+passport-old.js
+authRoutes-old.js
