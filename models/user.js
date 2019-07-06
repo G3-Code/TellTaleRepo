@@ -6,4 +6,5 @@ const userSchema = new Schema({
   googleId: String
 });
 
-module.exports = mongoose.model("users", userSchema); // mapping the table name and schema name
+//module.exports = mongoose.model("users", userSchema); // mapping the table name and schema name
+mongoose.model("users", userSchema);
